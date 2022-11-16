@@ -1,2 +1,3 @@
 # GTEx_SmokerStatus
-Exploratory Analysis of chnages in gene expression
+Exploratory Analysis of changes in gene expression in the Brain and Lungs based on transcripts per million and covariates data obtained from GTEx Portal.
+
