@@ -1,7 +1,0 @@
-Cluster information,Result,Cluster comparison metrics,Result
-M:F cluster 1,1.9047619047619,Regulation,Up
-M:F cluster 2,3.25,T test,0.601138183602337
-size cluster 1,61,Mean of cluster 1,61.0443770491803
-size of cluster 2,68,Mean of cluster 2,67.35
-Cluster size ratio,0.897058823529412,Wilcox test,0.819030389692169
-"",,F test,0.033621593300229
