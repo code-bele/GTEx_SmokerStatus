@@ -12,7 +12,7 @@ Smoking a commonly known confounder for many diseases can affect gene expression
 
 
 ###Data sets used :
-Every above brain sub-region has a unique transcripts per million gene expression file (tpm file) and a covariates matrix associated with it. A gene regualtion matrix  ("") has information about the expected changes in gene expression for the choosen set of genes in each brain sub-region on different levels of exposure to smoking. The tpm file that shows gene expression may not capture smoking alone as a signature and could be affected by the several other known and unknown variables. The covariates however could be a better indicator for capturing differences in gene expression with respect to smoking alone. 
+Every above brain sub-region has a unique transcripts per million gene expression file (tpm file) and a covariates matrix associated with it. A gene regualtion matrix  ("Regulation of Gene expression.csv") has information about the expected changes in gene expression for the choosen set of genes in each brain sub-region on different levels of exposure to smoking. The tpm file that shows gene expression may not capture smoking alone as a signature and could be affected by the several other known and unknown variables. The covariates however could be a better indicator for capturing differences in gene expression with respect to smoking alone. 
 
 ###Code files:
 Majority of the R code files have the naming pattern of "brain_region_clustering" for example "Amygdala_clustering". These files contain the R scripts used to cluster data using K-means algorithm and generate plots of the clusters made. Moreover, it has the code used to understand the differences between the clusters generated. 
